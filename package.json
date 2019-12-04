@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "ECharts wordcloud extension based on wordcloud2.js",
   "main": "index.js",
-  "author": "",
+  "author": "dragon",
   "license": "ISC",
   "dependencies": {
   },
