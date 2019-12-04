@@ -24,12 +24,12 @@ Or
 
 ```shell
 npm install echarts
-npm install echarts-wordcloud
+npm install dragon-echarts-wordcloud
 ```
 
 ```js
 var echarts = require('echarts');
-require('echarts-wordcloud');
+require('dragon-echarts-wordcloud');
 ```
 
 ## Usage
